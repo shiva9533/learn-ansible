@@ -1,9 +1,9 @@
-- name: INstall Nginx
+- name: Install Nginx
   hosts: WEB
   become: true
 
 
-- name: INstall Nginx
+- name: Install Nginx
   hosts: WEB
   become: true
   roles:
